@@ -1,11 +1,21 @@
-# 📔 DIÁRIO - 20 DIAS PARA RECOLOCAÇÃO
+# 📔 DIÁRIO - REGISTRO DE PROGRESSO
 
 > **Preencha TODO DIA ao final do expediente**  
-> **Objetivo:** Documentar progresso, aprendizados e manter motivação
+> **Objetivo:** Documentar o que FEZ, aprendizados e próximos passos
 
 ---
 
-## DIA 1/20 - 16/02/2026 ✅ COMPLETO
+## 📝 COMO USAR:
+
+**FINAL DO DIA (10 min):**
+1. Copiar template abaixo
+2. Preencher TUDO (seja honesto!)
+3. Salvar
+4. Commit: "docs: diario dia X"
+
+---
+
+## DIA 01/∞ - 16/02/2026 ✅ COMPLETO
 
 ### ✅ Completado Hoje:
 - ✅ Git instalado e configurado
