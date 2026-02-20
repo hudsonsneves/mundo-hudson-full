@@ -72,42 +72,93 @@ Gerente de Projetos TI Sênior | 20+ anos de experiência
 
 ---
 
-## 📁 Estrutura do Repositório
+## 📁 Estrutura Completa do Repositório
 
 ```
-MundoHudsonFull\
+MundoHudsonFull/
 │
-├── projetos\                      # Projetos de portfólio
-│   ├── 01-hudson-dashboard\       # Dashboard gerencial (React + BI)
-│   ├── 02-processo-bpmn\          # Workflow Camunda
-│   ├── 03-dashboard-bpm\          # Métricas de processos
-│   └── 04-portfolio-site\         # Site pessoal
+├─ 📄 00-INICIO-RAPIDO.md           # ⭐ Comece aqui sempre!
+├─ 📄 README.md                      # Este arquivo (visão geral)
+├─ 📄 DIARIO.md                      # Diário de progresso + dashboard métricas
+├─ 📄 PLANO-APERFEICOAMENTO.md      # Plano completo 15 dias (ETAPA 1 + 2)
+├─ 📄 PASSO-A-PASSO-ORGANIZACAO-FINAL.md  # Como organizar arquivos
+├─ 📄 CONTEXTO-RAPIDO.md            # Contexto rápido do projeto
+├─ 📄 HUDSON-PROFILE-MASTER.md      # Perfil profissional completo
+├─ 📄 ROTINA-DIARIA.md              # Rotina de trabalho
 │
-├── templates-gp\                  # Templates de gestão de projetos
-│   ├── templates-word\            # Docs, planos, relatórios
-│   ├── templates-excel\           # Planilhas, cronogramas
-│   └── templates-powerpoint\      # Apresentações
+├─ 📁 guias/                         # Guias de apoio para execução
+│   ├─ GUIA-JIRA-CONFLUENCE.md      # Como configurar Jira + Confluence
+│   ├─ GUIA-GITHUB-PROJECTS.md      # Como criar board Kanban público
+│   ├─ GUIA-CUSTOMIZAR-DASHBOARD.md # Transformar dashboard de cliente
+│   └─ GUIA-CONTINUACAO-CHATGPT.md  # Usar ChatGPT se Claude bloquear
 │
-├── templates-bpmn\                # Processos BPMN reutilizáveis
-│   ├── aprovacao-multinivel\
-│   ├── onboarding-colaborador\
-│   └── gestao-mudancas\
+├─ 📁 etapas/                        # Checklists de execução
+│   ├─ 📁 etapa-1/                   # ETAPA 1: Setup + 5 projetos (15 dias)
+│   │   ├─ 00-VISAO-GERAL.md        # Visão geral + stack + projetos
+│   │   ├─ 01-SETUP.md              # Ferramentas (Git, Node, VS Code...)
+│   │   ├─ 02-FIGMA.md              # Design e prototipação
+│   │   ├─ 03-REACT.md              # Dashboard React + Tailwind
+│   │   ├─ 04-JIRA.md               # Projeto MHF no Jira
+│   │   ├─ 05-CONFLUENCE.md         # Espaço MHF documentação
+│   │   ├─ 06-GITHUB-PROJECTS.md    # Board público GitHub
+│   │   ├─ 07-BPMN-CAMUNDA.md       # Processo executável
+│   │   ├─ 08-POWER-BI.md           # Dashboard BI
+│   │   ├─ 09-DEPLOY.md             # Vercel deployment
+│   │   ├─ 10-PORTFOLIO.md          # Atualizar site com projetos
+│   │   ├─ 11-AI-AUTOMACAO.md       # Documentar uso de AI
+│   │   └─ 12-VERIFICACAO.md        # Checklist final ETAPA 1
+│   │
+│   └─ 📁 etapa-2/                   # ETAPA 2: DB + Analytics (próximos 15 dias)
+│       └─ 00-VISAO-GERAL.md        # Planejamento futuro
 │
-├── power-bi\                      # Dashboards BI (.pbix)
-│   ├── dashboard-projetos\
-│   ├── dashboard-processos\
-│   └── dashboard-portfolio\
+├─ 📁 docs/                          # Documentação técnica + pessoal
+│   ├─ 📁 curriculos/                # CVs em PDF (versões)
+│   ├─ 📁 entrevistas/               # Preparação para entrevistas
+│   ├─ 📁 linkedin/                  # Posts, perfil, estratégia
+│   ├─ INTEGRACAO-COMPLETA.md       # Jira ↔ Confluence ↔ GitHub ↔ Figma
+│   ├─ WORKFLOW-END-TO-END.md       # Fluxo: Design → Código → Deploy
+│   │
+│   └─ 📁 templates/                 # Templates reutilizáveis
+│       ├─ 📁 confluence/            # 4 templates (Página, Requisitos, Retro, Spec)
+│       ├─ 📁 jira/                  # 3 templates (Epic, Story, Config)
+│       └─ 📁 github/                # 2 templates (PR, Commit)
 │
-├── docs\                          # Documentação
-│   ├── curriculos\                # CVs (PDF)
-│   ├── linkedin\                  # Posts, perfil
-│   └── entrevistas\               # Preparação entrevistas
+├─ 📁 assets/                        # Recursos estáticos
+│   └─ secao-projetos-portfolio-ATUALIZADA.html  # HTML seção projetos
 │
-├── .github\workflows\             # CI/CD pipelines
-├── README.md                      # Este arquivo
-├── HUDSON-PROFILE-MASTER.md      # Contexto completo profissional
-└── CONTEXTO-CLAUDE.md            # Contexto resumido
+├─ 📁 projetos/                      # Código dos 4 projetos principais
+│   ├─ 📁 01-hudson-dashboard/       # Dashboard React (Figma → React → Vercel)
+│   ├─ 📁 02-processo-bpmn/          # Workflow BPMN executável (Camunda)
+│   ├─ 📁 03-dashboard-bpm/          # Dashboard métricas processos (Power BI)
+│   └─ 📁 04-portfolio-site/         # Site pessoal (GitHub Pages)
+│
+├─ 📁 power-bi/                      # Dashboards BI (.pbix files)
+├─ 📁 templates-bpmn/                # Processos BPMN reutilizáveis
+└─ 📁 templates-gp/                  # Templates gestão de projetos
 ```
+
+---
+
+### 📊 Organização por Finalidade:
+
+**Navegação Rápida:**
+- `00-INICIO-RAPIDO.md` → Ponto de partida diário
+- `README.md` → Visão geral (este arquivo)
+- `DIARIO.md` → Progresso diário + métricas
+
+**Execução:**
+- `/etapas/etapa-1/` → 12 checklists passo a passo
+- `/guias/` → Ajuda específica quando precisar
+
+**Código:**
+- `/projetos/` → 4 projetos principais
+- `/power-bi/` → Dashboards BI
+
+**Documentação:**
+- `/docs/` → Técnica + Pessoal + Templates
+
+**Recursos:**
+- `/assets/` → HTML, imagens, arquivos prontos
 
 ---
 
@@ -184,12 +235,13 @@ Site profissional com:
 
 **Desenvolvimento:**
 - Node.js, VS Code, Git, GitHub Desktop
+- BizAgi Modeler (GRÁTIS!) 
 - Camunda Modeler, Power BI Desktop
 
 **IA & Produtividade:**
 - Claude Pro (principal)
 - ChatGPT Plus (brainstorm)
-- V0.dev (Figma→React - GRÁTIS!)
+- **V0.dev (Figma→React - GRÁTIS e MELHOR!)** ⭐
 
 **Project Management:**
 - Jira, Confluence (free até 10 usuários)
@@ -200,6 +252,14 @@ Site profissional com:
 **Cursor IDE:** R$ 100/mês (trial 14 dias)
 - Quando: DIA 6+ (após dominar React)
 - IDE com IA integrada
+
+**GitHub Copilot:** R$ 50/mês (trial 30 dias)
+- Quando: Opcional (após emprego, empresa pode pagar)
+- Autocompletar código com IA
+
+**Vercel Pro:** Deploy ilimitado (trial 14 dias)  
+- Quando: Só se precisar (plano FREE resolve)
+- Build minutes ilimitados
 
 ---
 
@@ -719,5 +779,5 @@ Ferramentas e plataformas que tornaram este projeto possível:
 
 ---
 
-*Última atualização: 18/02/2026*  
-*DIA 2/20 - Portfolio publicado ✅*
+*Última atualização: 19/02/2026*  
+*DIA 3/∞ - Documentação completa + Workflow BPMN*
