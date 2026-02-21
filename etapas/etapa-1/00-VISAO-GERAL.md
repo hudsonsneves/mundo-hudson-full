@@ -1,9 +1,14 @@
 # ETAPA 1 - VISÃO GERAL
-
+**Versão:** 1.1  
+**Criado em:** 16/02/2026  
+**Atualizado em:** 21/02/2026  
+**Changelog:**
+- v1.0 - Criação inicial
+- v1.1 - Bizagi/Camunda separados, % de progresso adicionado, Next.js na evolução
+```
 **Duração:** 15 dias  
 **Objetivo:** Setup completo + 5 projetos funcionais + Portfolio online  
 **Atualizado em:** 21/02/2026
-
 ---
 
 ## ✅ CHECKLIST MACRO:
