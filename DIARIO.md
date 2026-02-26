@@ -284,6 +284,8 @@ Código Real:      ░░░░░░░░░░░░  0% ❌
 
 <a name="dia-04"></a>
 ## DIA 04/∞ - 20/02/2026 📋 PLANEJADO
+- Miro (Discovery)
+- FigJam (Discovery)
 
 ### 📋 CHECKLIST:
 
