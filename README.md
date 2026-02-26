@@ -292,6 +292,8 @@ Site profissional com:
 - **Claude Pro** - IA para código/análise
 - **ChatGPT Plus** - IA para brainstorm/áudio
 - **V0.dev** - Figma → React generator
+- FigJam — Brainstorming visual (times Figma)
+- Miro   — Brainstorming visual (times corporativos)
 - **Cursor IDE** - IDE com IA integrada
 
 ### Project Management
@@ -299,6 +301,7 @@ Site profissional com:
 - **Confluence** - Documentação colaborativa
 - **Figma** - Design/prototipação
 - **FigJam** - Brainstorming visual
+- **Miro**   — Brainstorming visual (times corporativos)
 
 ---
 
