@@ -12,6 +12,9 @@ seguindo o workflow: Wireframe → Design System → Protótipo → Handoff
 ## 📊 NÍVEIS DE APRENDIZADO
 
 ### NÍVEL 1 — FUNDAÇÃO (ETAPA 1) ← VOCÊ ESTÁ AQUI
+- [X] Criar conta Miro (já tem ✅)
+- [ ] Criar board no Miro: "MHF — Discovery Dashboard"
+- [ ] Verificar FigJam no Figma
 - [ ] Wireframes e protótipos navegáveis
 - [ ] Design System básico (cores, tipografia, componentes)
 - [ ] Auto Layout (essencial para layouts responsivos)
