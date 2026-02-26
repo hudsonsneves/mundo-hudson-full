@@ -100,6 +100,31 @@ Template: TEMPLATE-PAGINA-PROJETO.md
 ```
 
 ---
+### **FASE 3.5: DISCOVERY - 2h**
+
+**DIA 04 - MANHÃ**
+
+**Objetivo:** Rascunhar ideias e fluxo de telas ANTES de desenhar no Figma
+
+**Ferramentas:**
+- FigJam → rascunho rápido dentro do Figma
+- Miro → versão elaborada, jornada do usuário
+
+**No FigJam:**
+1. Abrir Figma → New FigJam file
+2. Nome: "MHF — Discovery Dashboard Métricas"
+3. Listar seções do dashboard (post-its)
+4. Desenhar fluxo de navegação
+5. Salvar link
+---
+
+**No Miro:**
+1. Abrir miro.com
+2. Novo board: "MHF — Discovery Dashboard Métricas"
+3. Jornada do usuário
+4. Fluxo de telas elaborado
+5. Salvar link
+
 
 ### **FASE 4: DESIGN (Figma) - 4h**
 
