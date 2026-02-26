@@ -300,7 +300,7 @@ Site profissional com:
 - **Jira** - Gestão de projetos/sprints
 - **Confluence** - Documentação colaborativa
 - **Figma** - Design/prototipação
-- **FigJam** - Brainstorming visual
+- **FigJam** - Brainstorming visual (times Figma)
 - **Miro**   — Brainstorming visual (times corporativos)
 
 ---
