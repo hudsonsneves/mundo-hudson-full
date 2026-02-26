@@ -61,6 +61,7 @@ GP (20 anos) + BA + Scrum Master
 **BI:** Power BI + Python/Pandas  
 **DevOps:** Git + GitHub Actions + Vercel  
 **PM:** Jira + Confluence + Figma
+**Discovery:** FigJam + Miro
 
 ---
 
