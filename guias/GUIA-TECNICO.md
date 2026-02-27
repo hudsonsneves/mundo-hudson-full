@@ -2,7 +2,19 @@
 
 > **Documento vivo de referência técnica**
 > Atualizado à medida que novos conceitos são aprendidos e validados
-> Criado: 27/02/2026 — DIA 04
+> Criado: 27/02/2026
+>
+> 
+## 📅 HISTÓRICO DE ATUALIZAÇÕES
+
+| Data | DIA | O que foi adicionado |
+|---|---|---|
+| 27/02/2026 | DIA 04 | Tabela Figma vs Miro, conceitos UX/UI, Front/Back/Full-stack, progressão de código |
+
+---
+
+> **Regra:** Sempre que validar um conceito técnico novo, adicionar aqui com a data e o dia do projeto.
+
 
 ---
 
@@ -107,13 +119,3 @@ Mercado: Cursor IDE + Copilot (produtividade acelerada)
 - GitHub Pages → portfólio estático
 
 ---
-
-## 📅 HISTÓRICO DE ATUALIZAÇÕES
-
-| Data | DIA | O que foi adicionado |
-|---|---|---|
-| 27/02/2026 | DIA 04 | Tabela Figma vs Miro, conceitos UX/UI, Front/Back/Full-stack, progressão de código |
-
----
-
-> **Regra:** Sempre que validar um conceito técnico novo, adicionar aqui com a data e o dia do projeto.
