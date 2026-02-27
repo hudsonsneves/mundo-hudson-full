@@ -125,6 +125,30 @@ Template: TEMPLATE-PAGINA-PROJETO.md
 4. Fluxo de telas elaborado
 5. Salvar link
 
+---
+
+### **TABELA COMPLETA — FIGMA vs MIRO (Do Zero ao Publicado)**
+
+> Validado no DIA 04 — 27/02/2026
+
+| Fase | FigJam (Figma) | Miro | Do Zero (aprender) | Acelerador (mercado) |
+|---|---|---|---|---|
+| **Discovery** | Post-its, personas, KPIs | Post-its, personas, KPIs | Na mão, sem IA | Claude / ChatGPT |
+| **UX — User Journey** | Jornada do usuário | Jornada do usuário | Na mão | Claude sugere etapas |
+| **UX — Wireframe** | Figma (frames, grid) | Miro (wireframe nativo) | Na mão | Claude sugere estrutura |
+| **UI — Design System** | Figma (cores, tipografia) | Miro (referência visual) | Na mão | Figma AI / Claude |
+| **UI — Protótipo** | Figma (navegável) | Miro (fluxo interativo) | Na mão | Figma Dev Mode |
+| **Handoff** | Inspect CSS, SVG | Export PNG/PDF | Na mão | Figma Dev Mode (CSS auto) |
+| **Front-end** | React + Vite + Tailwind | React + Vite + Tailwind | VS Code na mão | V0.dev (Figma→React) |
+| **Front Avançado** | Next.js | Next.js | VS Code na mão | Cursor IDE + Copilot |
+| **Back-end** | Node.js | Node.js | VS Code na mão | Cursor IDE + Copilot |
+| **Review** | PR GitHub | PR GitHub | Manual | Claude revisa código |
+| **Deploy** | Vercel | Vercel | Manual | GitHub Actions CI/CD |
+| **Portfólio** | FigJam + Figma + demo | Miro + demo | Manual | GitHub Pages auto |
+
+**Observação:** Ver conceitos completos em `docs/GUIA-TECNICO.md`
+
+---
 
 ### **FASE 4: DESIGN (Figma) - 4h**
 
