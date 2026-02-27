@@ -48,7 +48,11 @@ Preencher:
   😊 Como me sinto: [breve]
 Salvar
 Commit: "docs: diario dia X"
+
+[ ] Sincronizar repositório no Projeto Claude
+    (Claude.ai → Projeto → Project Knowledge → Sync)
 ```
+
 
 **2. README.md**
 ```
