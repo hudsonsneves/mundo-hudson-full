@@ -165,6 +165,9 @@ Código Real:      ░░░░░░░░░░░░  0% ❌
 - ✅ Workflow Git funcionando (add → commit → push → pull)
 - ✅ GitHub Desktop sincronizado
 
+**✅ FigJam Discovery criado**
+🎨 Link: https://www.figma.com/board/PneoEOZuDfNSLRwX7jZh0c/MHF-%E2%80%94-Discovery-Dashboard-M%C3%A9tricas?node-id=0-1&t=yTtKs1Mp29LDJBa8-1
+
 ### 🔴 Bloqueios/Dificuldades:
 
 - Nenhum bloqueio significativo
