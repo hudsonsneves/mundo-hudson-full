@@ -284,15 +284,27 @@ Código Real:      ░░░░░░░░░░░░  0% ❌
 
 <a name="dia-04"></a>
 ## DIA 04/∞ - 27/02/2026 📋 EM ANDAMENTO
-- Miro (Discovery)
 - FigJam (Discovery)
 ✅ FigJam Discovery criado
 🎨 Link: https://www.figma.com/board/PneoEOZuDfNSLRwX7jZh0c/MHF-%E2%80%94-Discovery-Dashboard-M%C3%A9tricas?node-id=0-1&t=yTtKs1Mp29LDJBa8-1
 
-⏭️ Próximo dia:
-- Criar board no Miro
-- Wireframe no Figma
-- Design System no Figma
+- Miro (Discovery)
+✅ Miro Discovery criado
+🗺️ Link Miro: https://miro.com/app/board/uXjVG502Gvg=/
+
+### 🎯 Projetos Definidos DIA 04:
+
+**Projeto 1 — Ecossistema Figma:**
+- ✅ FigJam → discovery
+- ⏳ Figma → wireframe + design system + UI
+- ⏳ React + Vite → código
+- ⏳ Vercel → deploy
+
+**Projeto 2 — Ecossistema Miro:**
+- ✅ Miro → discovery
+- ⏳ Miro → wireframe + design system + UI
+- ⏳ React + Vite → código
+- ⏳ Vercel → deploy
 
 ⏱️ Tempo hoje: 2h
 😊 Como me sinto: animado, aprendendo
