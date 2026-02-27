@@ -164,7 +164,43 @@ MundoHudsonFull/
 
 ## 🎨 Projetos de Portfólio
 
-### 1️⃣ Dashboard Hudson - Gestão de Alvarás
+### 1️⃣ Dashboard MHF — Ecossistema Figma
+**Status:** 🟡 Em andamento
+**Stack Design:** FigJam → Figma (wireframe + design system + UI)
+**Stack Código:** React + Vite + Tailwind + Recharts
+**Deploy:** Vercel
+
+| Fase | Ferramenta | Status |
+|---|---|---|
+| Discovery | FigJam | ✅ Concluído |
+| Wireframe | Figma | ⏳ Próximo |
+| Design System | Figma | ⏳ Próximo |
+| UI / Protótipo | Figma | ⏳ Próximo |
+| Código | React + Vite | ⏳ Próximo |
+| Deploy | Vercel | ⏳ Próximo |
+
+🎨 FigJam: https://www.figma.com/board/PneoEOZuDfNSLRwX7jZh0c/MHF-%E2%80%94-Discovery-Dashboard-M%C3%A9tricas
+
+---
+
+### 2️⃣ Dashboard MHF — Ecossistema Miro
+**Status:** 🟡 Em andamento
+**Stack Design:** Miro (discovery + wireframe + design system + UI)
+**Stack Código:** React + Vite + Tailwind + Recharts
+**Deploy:** Vercel
+
+| Fase | Ferramenta | Status |
+|---|---|---|
+| Discovery | Miro | ✅ Concluído |
+| Wireframe | Miro | ⏳ Próximo |
+| Design System | Miro | ⏳ Próximo |
+| UI / Protótipo | Miro | ⏳ Próximo |
+| Código | React + Vite | ⏳ Próximo |
+| Deploy | Vercel | ⏳ Próximo |
+
+🗺️ Miro: https://miro.com/app/board/uXjVG502Gvg=/
+
+s
 **Status:** 🟢 Em desenvolvimento  
 **Tech Stack:** React, Vite, Tailwind CSS, Recharts  
 **Deploy:** [Em breve - Vercel]
