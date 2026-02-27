@@ -321,6 +321,31 @@ Código Real:      ░░░░░░░░░░░░  0% ❌
 - [ ] Atualizar Dashboard Progresso
 - [ ] Commit final do dia
 
+---
+
+**📊 Configurações (parcial):**
+- 🟡 Jira: Projeto MHF a criar
+- 🟡 Confluence: Espaço MHF a criar
+- 🟡 Epic MHF-1 a criar
+
+### 🔴 Bloqueios/Dificuldades:
+
+- ⚠️ 
+
+### 🎓 Aprendizados:
+- **UX vs UI:** UX é fluxo e jornada (o que o usuário faz), UI é visual (como fica). UX sempre vem antes.
+- **FigJam vs Miro:** Mesmas fases, ferramentas diferentes. FigJam para times Figma, Miro para times corporativos. Dominar os dois = pronto para qualquer empresa.
+- **Front vs Back vs Full:** Front é o que o usuário vê (React/Next.js), Back roda no servidor (Node.js), Full-stack domina os dois. Existem devs especializados em cada um.
+- **React vs Next.js vs Node.js:** React = front básico, Next.js = front avançado com servidor, Node.js = back-end puro.
+- **Do zero primeiro:** Aprender sem acelerador para entender o que está fazendo. Depois usar aceleradores para produtividade do mercado corporativo.
+- **V0.dev é gratuito:** Converte Figma em React limpo. Cursor IDE e Copilot são trials para usar após dominar o básico (dia 6+).
+
+
+### 💡 Insights:
+
+- 
+
+
 **TEMPO ESTIMADO:** 7h
 
 ### 💰 Investimento: R$ 110 (Claude Pro)
